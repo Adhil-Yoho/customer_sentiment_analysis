@@ -1,0 +1,9 @@
+myenv/
+gensim_env/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.pytest_cache/
+outputs/training_checkpoints/
+outputs/distilbert_sentiment/

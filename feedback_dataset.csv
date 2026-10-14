@@ -1,0 +1,401 @@
+text,label
+I love this product,positive
+The service was excellent,positive
+Very happy with my purchase,positive
+The delivery was fast,positive
+Great quality and good value,positive
+The staff were friendly,positive
+Everything worked perfectly,positive
+I would recommend this product,positive
+The app is easy to use,positive
+Excellent customer support,positive
+I hate this product,negative
+The service was terrible,negative
+Very unhappy with my purchase,negative
+The delivery was late,negative
+Poor quality and bad value,negative
+The staff were rude,negative
+Nothing worked properly,negative
+I would not recommend this product,negative
+The app is difficult to use,negative
+Terrible customer support,negative
+Today I love this product Highly recommended.,positive
+Today The service was excellent Highly recommended.,positive
+Today Very happy with my purchase Highly recommended.,positive
+Today The delivery was fast Highly recommended.,positive
+Today Great quality and good value Highly recommended.,positive
+Today The staff were friendly Highly recommended.,positive
+Today Everything worked perfectly Highly recommended.,positive
+Today I would recommend this product Highly recommended.,positive
+Today The app is easy to use Highly recommended.,positive
+Today Excellent customer support Highly recommended.,positive
+Today I hate this product Not recommended.,negative
+Today The service was terrible Not recommended.,negative
+Today Very unhappy with my purchase Not recommended.,negative
+Today The delivery was late Not recommended.,negative
+Today Poor quality and bad value Not recommended.,negative
+Today The staff were rude Not recommended.,negative
+Today Nothing worked properly Not recommended.,negative
+Today I would not recommend this product Not recommended.,negative
+Today The app is difficult to use Not recommended.,negative
+Today Terrible customer support Not recommended.,negative
+Honestly I love this product I am satisfied.,positive
+Honestly The service was excellent I am satisfied.,positive
+Honestly Very happy with my purchase I am satisfied.,positive
+Honestly The delivery was fast I am satisfied.,positive
+Honestly Great quality and good value I am satisfied.,positive
+Honestly The staff were friendly I am satisfied.,positive
+Honestly Everything worked perfectly I am satisfied.,positive
+Honestly I would recommend this product I am satisfied.,positive
+Honestly The app is easy to use I am satisfied.,positive
+Honestly Excellent customer support I am satisfied.,positive
+Honestly I hate this product I am disappointed.,negative
+Honestly The service was terrible I am disappointed.,negative
+Honestly Very unhappy with my purchase I am disappointed.,negative
+Honestly The delivery was late I am disappointed.,negative
+Honestly Poor quality and bad value I am disappointed.,negative
+Honestly The staff were rude I am disappointed.,negative
+Honestly Nothing worked properly I am disappointed.,negative
+Honestly I would not recommend this product I am disappointed.,negative
+Honestly The app is difficult to use I am disappointed.,negative
+Honestly Terrible customer support I am disappointed.,negative
+Overall I love this product Thank you.,positive
+Overall The service was excellent Thank you.,positive
+Overall Very happy with my purchase Thank you.,positive
+Overall The delivery was fast Thank you.,positive
+Overall Great quality and good value Thank you.,positive
+Overall The staff were friendly Thank you.,positive
+Overall Everything worked perfectly Thank you.,positive
+Overall I would recommend this product Thank you.,positive
+Overall The app is easy to use Thank you.,positive
+Overall Excellent customer support Thank you.,positive
+Overall I hate this product Very frustrating.,negative
+Overall The service was terrible Very frustrating.,negative
+Overall Very unhappy with my purchase Very frustrating.,negative
+Overall The delivery was late Very frustrating.,negative
+Overall Poor quality and bad value Very frustrating.,negative
+Overall The staff were rude Very frustrating.,negative
+Overall Nothing worked properly Very frustrating.,negative
+Overall I would not recommend this product Very frustrating.,negative
+Overall The app is difficult to use Very frustrating.,negative
+Overall Terrible customer support Very frustrating.,negative
+Really I love this product,positive
+Really The service was excellent,positive
+Really Very happy with my purchase,positive
+Really The delivery was fast,positive
+Really Great quality and good value,positive
+Really The staff were friendly,positive
+Really Everything worked perfectly,positive
+Really I would recommend this product,positive
+Really The app is easy to use,positive
+Really Excellent customer support,positive
+Really I hate this product,negative
+Really The service was terrible,negative
+Really Very unhappy with my purchase,negative
+Really The delivery was late,negative
+Really Poor quality and bad value,negative
+Really The staff were rude,negative
+Really Nothing worked properly,negative
+Really I would not recommend this product,negative
+Really The app is difficult to use,negative
+Really Terrible customer support,negative
+I love this product Highly recommended.,positive
+The service was excellent Highly recommended.,positive
+Very happy with my purchase Highly recommended.,positive
+The delivery was fast Highly recommended.,positive
+Great quality and good value Highly recommended.,positive
+The staff were friendly Highly recommended.,positive
+Everything worked perfectly Highly recommended.,positive
+I would recommend this product Highly recommended.,positive
+The app is easy to use Highly recommended.,positive
+Excellent customer support Highly recommended.,positive
+I hate this product Not recommended.,negative
+The service was terrible Not recommended.,negative
+Very unhappy with my purchase Not recommended.,negative
+The delivery was late Not recommended.,negative
+Poor quality and bad value Not recommended.,negative
+The staff were rude Not recommended.,negative
+Nothing worked properly Not recommended.,negative
+I would not recommend this product Not recommended.,negative
+The app is difficult to use Not recommended.,negative
+Terrible customer support Not recommended.,negative
+Today I love this product I am satisfied.,positive
+Today The service was excellent I am satisfied.,positive
+Today Very happy with my purchase I am satisfied.,positive
+Today The delivery was fast I am satisfied.,positive
+Today Great quality and good value I am satisfied.,positive
+Today The staff were friendly I am satisfied.,positive
+Today Everything worked perfectly I am satisfied.,positive
+Today I would recommend this product I am satisfied.,positive
+Today The app is easy to use I am satisfied.,positive
+Today Excellent customer support I am satisfied.,positive
+Today I hate this product I am disappointed.,negative
+Today The service was terrible I am disappointed.,negative
+Today Very unhappy with my purchase I am disappointed.,negative
+Today The delivery was late I am disappointed.,negative
+Today Poor quality and bad value I am disappointed.,negative
+Today The staff were rude I am disappointed.,negative
+Today Nothing worked properly I am disappointed.,negative
+Today I would not recommend this product I am disappointed.,negative
+Today The app is difficult to use I am disappointed.,negative
+Today Terrible customer support I am disappointed.,negative
+Honestly I love this product Thank you.,positive
+Honestly The service was excellent Thank you.,positive
+Honestly Very happy with my purchase Thank you.,positive
+Honestly The delivery was fast Thank you.,positive
+Honestly Great quality and good value Thank you.,positive
+Honestly The staff were friendly Thank you.,positive
+Honestly Everything worked perfectly Thank you.,positive
+Honestly I would recommend this product Thank you.,positive
+Honestly The app is easy to use Thank you.,positive
+Honestly Excellent customer support Thank you.,positive
+Honestly I hate this product Very frustrating.,negative
+Honestly The service was terrible Very frustrating.,negative
+Honestly Very unhappy with my purchase Very frustrating.,negative
+Honestly The delivery was late Very frustrating.,negative
+Honestly Poor quality and bad value Very frustrating.,negative
+Honestly The staff were rude Very frustrating.,negative
+Honestly Nothing worked properly Very frustrating.,negative
+Honestly I would not recommend this product Very frustrating.,negative
+Honestly The app is difficult to use Very frustrating.,negative
+Honestly Terrible customer support Very frustrating.,negative
+Overall I love this product,positive
+Overall The service was excellent,positive
+Overall Very happy with my purchase,positive
+Overall The delivery was fast,positive
+Overall Great quality and good value,positive
+Overall The staff were friendly,positive
+Overall Everything worked perfectly,positive
+Overall I would recommend this product,positive
+Overall The app is easy to use,positive
+Overall Excellent customer support,positive
+Overall I hate this product,negative
+Overall The service was terrible,negative
+Overall Very unhappy with my purchase,negative
+Overall The delivery was late,negative
+Overall Poor quality and bad value,negative
+Overall The staff were rude,negative
+Overall Nothing worked properly,negative
+Overall I would not recommend this product,negative
+Overall The app is difficult to use,negative
+Overall Terrible customer support,negative
+Really I love this product Highly recommended.,positive
+Really The service was excellent Highly recommended.,positive
+Really Very happy with my purchase Highly recommended.,positive
+Really The delivery was fast Highly recommended.,positive
+Really Great quality and good value Highly recommended.,positive
+Really The staff were friendly Highly recommended.,positive
+Really Everything worked perfectly Highly recommended.,positive
+Really I would recommend this product Highly recommended.,positive
+Really The app is easy to use Highly recommended.,positive
+Really Excellent customer support Highly recommended.,positive
+Really I hate this product Not recommended.,negative
+Really The service was terrible Not recommended.,negative
+Really Very unhappy with my purchase Not recommended.,negative
+Really The delivery was late Not recommended.,negative
+Really Poor quality and bad value Not recommended.,negative
+Really The staff were rude Not recommended.,negative
+Really Nothing worked properly Not recommended.,negative
+Really I would not recommend this product Not recommended.,negative
+Really The app is difficult to use Not recommended.,negative
+Really Terrible customer support Not recommended.,negative
+I love this product I am satisfied.,positive
+The service was excellent I am satisfied.,positive
+Very happy with my purchase I am satisfied.,positive
+The delivery was fast I am satisfied.,positive
+Great quality and good value I am satisfied.,positive
+The staff were friendly I am satisfied.,positive
+Everything worked perfectly I am satisfied.,positive
+I would recommend this product I am satisfied.,positive
+The app is easy to use I am satisfied.,positive
+Excellent customer support I am satisfied.,positive
+I hate this product I am disappointed.,negative
+The service was terrible I am disappointed.,negative
+Very unhappy with my purchase I am disappointed.,negative
+The delivery was late I am disappointed.,negative
+Poor quality and bad value I am disappointed.,negative
+The staff were rude I am disappointed.,negative
+Nothing worked properly I am disappointed.,negative
+I would not recommend this product I am disappointed.,negative
+The app is difficult to use I am disappointed.,negative
+Terrible customer support I am disappointed.,negative
+Today I love this product Thank you.,positive
+Today The service was excellent Thank you.,positive
+Today Very happy with my purchase Thank you.,positive
+Today The delivery was fast Thank you.,positive
+Today Great quality and good value Thank you.,positive
+Today The staff were friendly Thank you.,positive
+Today Everything worked perfectly Thank you.,positive
+Today I would recommend this product Thank you.,positive
+Today The app is easy to use Thank you.,positive
+Today Excellent customer support Thank you.,positive
+Today I hate this product Very frustrating.,negative
+Today The service was terrible Very frustrating.,negative
+Today Very unhappy with my purchase Very frustrating.,negative
+Today The delivery was late Very frustrating.,negative
+Today Poor quality and bad value Very frustrating.,negative
+Today The staff were rude Very frustrating.,negative
+Today Nothing worked properly Very frustrating.,negative
+Today I would not recommend this product Very frustrating.,negative
+Today The app is difficult to use Very frustrating.,negative
+Today Terrible customer support Very frustrating.,negative
+Honestly I love this product,positive
+Honestly The service was excellent,positive
+Honestly Very happy with my purchase,positive
+Honestly The delivery was fast,positive
+Honestly Great quality and good value,positive
+Honestly The staff were friendly,positive
+Honestly Everything worked perfectly,positive
+Honestly I would recommend this product,positive
+Honestly The app is easy to use,positive
+Honestly Excellent customer support,positive
+Honestly I hate this product,negative
+Honestly The service was terrible,negative
+Honestly Very unhappy with my purchase,negative
+Honestly The delivery was late,negative
+Honestly Poor quality and bad value,negative
+Honestly The staff were rude,negative
+Honestly Nothing worked properly,negative
+Honestly I would not recommend this product,negative
+Honestly The app is difficult to use,negative
+Honestly Terrible customer support,negative
+Overall I love this product Highly recommended.,positive
+Overall The service was excellent Highly recommended.,positive
+Overall Very happy with my purchase Highly recommended.,positive
+Overall The delivery was fast Highly recommended.,positive
+Overall Great quality and good value Highly recommended.,positive
+Overall The staff were friendly Highly recommended.,positive
+Overall Everything worked perfectly Highly recommended.,positive
+Overall I would recommend this product Highly recommended.,positive
+Overall The app is easy to use Highly recommended.,positive
+Overall Excellent customer support Highly recommended.,positive
+Overall I hate this product Not recommended.,negative
+Overall The service was terrible Not recommended.,negative
+Overall Very unhappy with my purchase Not recommended.,negative
+Overall The delivery was late Not recommended.,negative
+Overall Poor quality and bad value Not recommended.,negative
+Overall The staff were rude Not recommended.,negative
+Overall Nothing worked properly Not recommended.,negative
+Overall I would not recommend this product Not recommended.,negative
+Overall The app is difficult to use Not recommended.,negative
+Overall Terrible customer support Not recommended.,negative
+Really I love this product I am satisfied.,positive
+Really The service was excellent I am satisfied.,positive
+Really Very happy with my purchase I am satisfied.,positive
+Really The delivery was fast I am satisfied.,positive
+Really Great quality and good value I am satisfied.,positive
+Really The staff were friendly I am satisfied.,positive
+Really Everything worked perfectly I am satisfied.,positive
+Really I would recommend this product I am satisfied.,positive
+Really The app is easy to use I am satisfied.,positive
+Really Excellent customer support I am satisfied.,positive
+Really I hate this product I am disappointed.,negative
+Really The service was terrible I am disappointed.,negative
+Really Very unhappy with my purchase I am disappointed.,negative
+Really The delivery was late I am disappointed.,negative
+Really Poor quality and bad value I am disappointed.,negative
+Really The staff were rude I am disappointed.,negative
+Really Nothing worked properly I am disappointed.,negative
+Really I would not recommend this product I am disappointed.,negative
+Really The app is difficult to use I am disappointed.,negative
+Really Terrible customer support I am disappointed.,negative
+I love this product Thank you.,positive
+The service was excellent Thank you.,positive
+Very happy with my purchase Thank you.,positive
+The delivery was fast Thank you.,positive
+Great quality and good value Thank you.,positive
+The staff were friendly Thank you.,positive
+Everything worked perfectly Thank you.,positive
+I would recommend this product Thank you.,positive
+The app is easy to use Thank you.,positive
+Excellent customer support Thank you.,positive
+I hate this product Very frustrating.,negative
+The service was terrible Very frustrating.,negative
+Very unhappy with my purchase Very frustrating.,negative
+The delivery was late Very frustrating.,negative
+Poor quality and bad value Very frustrating.,negative
+The staff were rude Very frustrating.,negative
+Nothing worked properly Very frustrating.,negative
+I would not recommend this product Very frustrating.,negative
+The app is difficult to use Very frustrating.,negative
+Terrible customer support Very frustrating.,negative
+Today I love this product,positive
+Today The service was excellent,positive
+Today Very happy with my purchase,positive
+Today The delivery was fast,positive
+Today Great quality and good value,positive
+Today The staff were friendly,positive
+Today Everything worked perfectly,positive
+Today I would recommend this product,positive
+Today The app is easy to use,positive
+Today Excellent customer support,positive
+Today I hate this product,negative
+Today The service was terrible,negative
+Today Very unhappy with my purchase,negative
+Today The delivery was late,negative
+Today Poor quality and bad value,negative
+Today The staff were rude,negative
+Today Nothing worked properly,negative
+Today I would not recommend this product,negative
+Today The app is difficult to use,negative
+Today Terrible customer support,negative
+Honestly I love this product Highly recommended.,positive
+Honestly The service was excellent Highly recommended.,positive
+Honestly Very happy with my purchase Highly recommended.,positive
+Honestly The delivery was fast Highly recommended.,positive
+Honestly Great quality and good value Highly recommended.,positive
+Honestly The staff were friendly Highly recommended.,positive
+Honestly Everything worked perfectly Highly recommended.,positive
+Honestly I would recommend this product Highly recommended.,positive
+Honestly The app is easy to use Highly recommended.,positive
+Honestly Excellent customer support Highly recommended.,positive
+Honestly I hate this product Not recommended.,negative
+Honestly The service was terrible Not recommended.,negative
+Honestly Very unhappy with my purchase Not recommended.,negative
+Honestly The delivery was late Not recommended.,negative
+Honestly Poor quality and bad value Not recommended.,negative
+Honestly The staff were rude Not recommended.,negative
+Honestly Nothing worked properly Not recommended.,negative
+Honestly I would not recommend this product Not recommended.,negative
+Honestly The app is difficult to use Not recommended.,negative
+Honestly Terrible customer support Not recommended.,negative
+Overall I love this product I am satisfied.,positive
+Overall The service was excellent I am satisfied.,positive
+Overall Very happy with my purchase I am satisfied.,positive
+Overall The delivery was fast I am satisfied.,positive
+Overall Great quality and good value I am satisfied.,positive
+Overall The staff were friendly I am satisfied.,positive
+Overall Everything worked perfectly I am satisfied.,positive
+Overall I would recommend this product I am satisfied.,positive
+Overall The app is easy to use I am satisfied.,positive
+Overall Excellent customer support I am satisfied.,positive
+Overall I hate this product I am disappointed.,negative
+Overall The service was terrible I am disappointed.,negative
+Overall Very unhappy with my purchase I am disappointed.,negative
+Overall The delivery was late I am disappointed.,negative
+Overall Poor quality and bad value I am disappointed.,negative
+Overall The staff were rude I am disappointed.,negative
+Overall Nothing worked properly I am disappointed.,negative
+Overall I would not recommend this product I am disappointed.,negative
+Overall The app is difficult to use I am disappointed.,negative
+Overall Terrible customer support I am disappointed.,negative
+Really I love this product Thank you.,positive
+Really The service was excellent Thank you.,positive
+Really Very happy with my purchase Thank you.,positive
+Really The delivery was fast Thank you.,positive
+Really Great quality and good value Thank you.,positive
+Really The staff were friendly Thank you.,positive
+Really Everything worked perfectly Thank you.,positive
+Really I would recommend this product Thank you.,positive
+Really The app is easy to use Thank you.,positive
+Really Excellent customer support Thank you.,positive
+Really I hate this product Very frustrating.,negative
+Really The service was terrible Very frustrating.,negative
+Really Very unhappy with my purchase Very frustrating.,negative
+Really The delivery was late Very frustrating.,negative
+Really Poor quality and bad value Very frustrating.,negative
+Really The staff were rude Very frustrating.,negative
+Really Nothing worked properly Very frustrating.,negative
+Really I would not recommend this product Very frustrating.,negative
+Really The app is difficult to use Very frustrating.,negative
+Really Terrible customer support Very frustrating.,negative
